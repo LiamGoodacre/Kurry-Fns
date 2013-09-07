@@ -1,0 +1,21 @@
+{
+  "name": "kurry-fns",
+  "description": "A small collection of functions for dealing with JavaScript functions",
+  "main": "./fns.js",
+  "author": "Liam Goodacre",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiamGoodacre/Kurry-Fns"
+  },
+  "bugs": {
+    "url": "https://github.com/LiamGoodacre/Kurry-Fns/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/LiamGoodacre/Kurry-Fns/raw/master/LICENSE"
+  }],
+  "dependencies": {
+    "kurry": "0.0.x"
+  }
+}

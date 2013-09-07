@@ -1,4 +1,4 @@
-/*
+/*!
  * Kurry-Fns.js
  * The MIT License (MIT)
  * 

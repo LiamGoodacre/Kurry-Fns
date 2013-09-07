@@ -1,4 +1,4 @@
-# Kurry-Fns [0.0.1]
+# Kurry-Fns
 
 A small collection of functions for dealing with JavaScript functions
 
